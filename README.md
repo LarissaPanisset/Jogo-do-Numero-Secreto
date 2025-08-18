@@ -1,0 +1,40 @@
+# 🔢 Jogo do Número Secreto com Voz  
+**🎮 Jogue online:** https://jogo-do-numero-secreto-one-gamma-80.vercel.app/
+
+Um jogo interativo onde o jogador adivinha um número aleatório, com síntese de voz e prevenção de repetição de números. Desenvolvido como projeto do curso [Nome do Curso].  
+
+## 🎥 Demonstração  
+![Demonstração do Jogo do Número Secreto](https://imgur.com/a/5vCH6sX)  
+*(GIF mostrando o fluxo completo: chute do jogador → feedback de voz → tela de vitória)*  
+
+---
+
+## ✨ Recursos Destacados  
+✅ **Sistema de voz integrado**  
+- Feedback auditivo usando a biblioteca ResponsiveVoice  
+- Locução em português com ajuste de velocidade  
+
+✅ **Lógica avançada de sorteio**  
+- Números nunca se repetem até que todos sejam usados  
+- Reinício automático da lista ao atingir o limite (1-100)  
+
+✅ **Interface dinâmica**  
+- Mensagens personalizadas (singular/plural de "tentativa")  
+- Botão de reinício inteligente  
+
+## 🛠️ Tecnologias Usadas  
+- HTML5, CSS3, JavaScript Vanilla  
+- Biblioteca ResponsiveVoiceJS  
+- `Math.random()` com tratamento especial  
+
+## ⚙️ Como Funciona  
+1. `gerarNumeroAleatorio()` cria um número único  
+2. `verificarChute()` dá feedback por voz/texto  
+3. Reinício automático ao acertar  
+
+## 🚀 Como Executar  
+```bash
+# Localmente:
+git clone https://github.com/seu-user/repo.git
+cd repo
+open index.html
