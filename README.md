@@ -4,8 +4,8 @@
 Um jogo interativo onde o jogador adivinha um número aleatório, com síntese de voz e prevenção de repetição de números. Desenvolvido como projeto do curso [Nome do Curso].  
 
 ## 🎥 Demonstração  
-![Demonstração do Jogo do Número Secreto](https://imgur.com/a/5vCH6sX)  
-*(GIF mostrando o fluxo completo: chute do jogador → feedback de voz → tela de vitória)*  
+![Demonstração do Jogo do Número Secreto](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRkZ3ptM2U3dnZyY2piMzA4M29ocnRwdXozemtzMW9sYmRwa2NrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BXCSpADXroZoQ59hXR/giphy.gif)  
+*(GIF mostrando o fluxo completo: chute do jogador → tela de vitória)*  
 
 ---
 
