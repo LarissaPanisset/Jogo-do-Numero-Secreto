@@ -38,3 +38,7 @@ Um jogo interativo onde o jogador adivinha um número aleatório, com síntese d
 git clone https://github.com/seu-user/repo.git
 cd repo
 open index.html
+```
+
+---
+Feito com 💙 por **LARISSA PANISSET** | Aluna ONE  
