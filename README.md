@@ -1,7 +1,7 @@
-# 🔢 Jogo do Número Secreto com Voz  
+# 🔢 Jogo do Número Secreto
 **🎮 Jogue online:** https://jogo-do-numero-secreto-one-gamma-80.vercel.app/
 
-Um jogo interativo onde o jogador adivinha um número aleatório, com síntese de voz e prevenção de repetição de números. Desenvolvido como projeto do curso [Nome do Curso].  
+Um jogo interativo onde o jogador adivinha um número aleatório, com síntese de voz e prevenção de repetição de números. Desenvolvido como projeto do curso lógica de programação.  
 
 ## 🎥 Demonstração  
 ![Demonstração do Jogo do Número Secreto](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRkZ3ptM2U3dnZyY2piMzA4M29ocnRwdXozemtzMW9sYmRwa2NrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BXCSpADXroZoQ59hXR/giphy.gif)  
